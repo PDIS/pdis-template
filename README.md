@@ -4,7 +4,7 @@ Website exmaple templates with a PDIS style
 
 
 ### How it was made
-It is [Customized](https://bootswatch.com/help/) from [Lux](https://bootswatch.com/lux/), a [Bootswatch](https://bootswatch.com/) theme, based on the color pallates:
+It is [Customized](https://bootswatch.com/help/) from [Lux](https://bootswatch.com/lux/), a [Bootswatch](https://bootswatch.com/) theme, based on the color palettes:
 - https://coolors.co/15bfbc-10768d-e8dcbe-f9d740-bf1826
 - https://coolors.co/10768d-032e3d-e8dcbe-dbb608-95141e 
 
