@@ -3,6 +3,7 @@
 Based on the color pallates: 
 
 https://coolors.co/15bfbc-10768d-e8dcbe-f9d740-bf1826
+
 https://coolors.co/10768d-032e3d-e8dcbe-dbb608-95141e 
 
 Scrolling Nav
